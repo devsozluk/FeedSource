@@ -1,7 +1,4 @@
-import { useState } from "react";
-
 function App() {
-  const [state, setState] = useState(0);
 
   return (
     <div className="font-sans w-full h-screen space-y-2 flex flex-col items-center justify-center">
