@@ -14,6 +14,9 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@iconify-json/ph": "^1.1.5",
+    "@iconify-json/svg-spinners": "^1.1.1",
+    "@types/node": "^18.15.13",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "@typescript-eslint/eslint-plugin": "^5.57.1",
@@ -26,8 +29,6 @@
     "eslint-plugin-react-refresh": "^0.3.4",
     "typescript": "^5.0.2",
     "unocss": "^0.51.5",
-    "vite": "^4.3.0",
-    "@iconify-json/ph": "^1.1.5",
-    "@iconify-json/svg-spinners": "^1.1.1"
+    "vite": "^4.3.0"
   }
 }
